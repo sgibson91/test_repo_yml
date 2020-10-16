@@ -1,0 +1,7 @@
+name: yml-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
